@@ -4,7 +4,7 @@
   "name": "page_reloader",
   "version": "1.0",
 
-  "description": "Reloads local files every 2 seconds",
+  "description": "Reloads local files every n seconds",
   "homepage_url": "https://github.com/k33theod/reloader",
   "icons": {
     "48": "icons/reload_48.png"
