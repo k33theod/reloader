@@ -1,5 +1,1 @@
-function reload() {
-  location.reload(true);
-} 
-
-let rel = setInterval(reload,5000);
+let rel = setInterval(()=>location.reload(true),5000);
